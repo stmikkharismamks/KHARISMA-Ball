@@ -9,8 +9,8 @@ This game built for STMIK KHARISMA Makassar promotional purpose, and also for le
 * Pokémon GO! Re-creating [tutorial video by Wolftic](https://www.youtube.com/playlist?list=PLtRnV0WKgoBSkmJbkjgwWgmbIsLIvg1xu) (Thank You)
 
 ## Install & Play
-* Play on smartphone with Android 4.1.1 (at least) version with gyro capability
 * Download APK from ..
+* Play on smartphone with Android 4.1.1 (at least) version with gyro capability
 * The balls only present on specific location that determined by game administrator 
 
 ## Built With
