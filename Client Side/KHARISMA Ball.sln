@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B24D9405-3FE5-35ED-E31A-5DE2575B506B}") = "KHARISMA Ball", "Assembly-CSharp.csproj", "{1DB9356E-CFEB-3554-AE53-DBC590769450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB9356E-CFEB-3554-AE53-DBC590769450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB9356E-CFEB-3554-AE53-DBC590769450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB9356E-CFEB-3554-AE53-DBC590769450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB9356E-CFEB-3554-AE53-DBC590769450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
