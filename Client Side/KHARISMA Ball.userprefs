@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GyroCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\CueBall.cs">
     <Files>
-      <File FileName="Assets\scripts\GyroCamera.cs" Line="41" Column="2" />
-      <File FileName="Assets\scripts\CameraAsBackground.cs" Line="16" Column="37" />
+      <File FileName="Assets\scripts\GyroCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CameraAsBackground.cs" Line="16" Column="3" />
+      <File FileName="Assets\scripts\CueBall.cs" Line="41" Column="98" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

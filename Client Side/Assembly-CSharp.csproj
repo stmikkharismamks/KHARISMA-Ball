@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\CameraAsBackground.cs" />
+     <Compile Include="Assets\scripts\CueBall.cs" />
      <Compile Include="Assets\scripts\GyroCamera.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

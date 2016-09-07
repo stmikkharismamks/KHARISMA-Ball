@@ -12,8 +12,8 @@ public class CameraAsBackground : MonoBehaviour {
 		arf = GetComponent<AspectRatioFitter> ();
 
 		image = GetComponent<RawImage> ();
-//		cam = new WebCamTexture (Screen.height, Screen.width );
-		cam = new WebCamTexture (1280, 800);﻿
+		cam = new WebCamTexture (Screen.height, Screen.width );
+//		cam = new WebCamTexture (1280, 800);﻿
 		image.texture = cam;
 		cam.Play ();
 	}
